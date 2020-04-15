@@ -16,3 +16,9 @@ Process sequence：
 
 6. correct_trials_firingrate_test_unclassified2.py
 7. PCA2correct_trials.py   bootstrap_pca(1).py
+
+Plot figures:
+
+PC3_b2to_test_unclassified2_trackers.m
+trajectory_speed.m
+Euclid_distance_of_trajectory.m
